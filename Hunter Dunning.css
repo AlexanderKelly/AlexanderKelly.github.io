@@ -1,0 +1,284 @@
+/*
+Block = .block
+Element = .block__element
+Modifier = .block__element--modifier
+*/
+/*** Blocks ***/
+*{box-sizing: border-box}
+.employers-body{
+width: 
+padding: 104px 10px 0px 10px;
+
+}
+.employersgrid{
+display: grid;
+grid-template-columns: 236px 236px 236px 236px;
+grid-template-rows:93px 93px 93px 93px;
+grid-template-area:
+
+;
+margin-bottom: 0px;
+}
+
+/*.employers-testimony__slideshow-container{
+max-width: 1000px;
+position: realtive;
+margin: auto;
+}*/
+.login-container{
+width:1440px;
+height:1055px;
+}
+#login-rectangle{
+	width:720px;
+	height:477px;
+	margin-left: 360px;
+	margin-right: 360px;
+	margin-top: 274px;
+	margin-bottom: 284px;
+	
+	background-color:white;
+}
+.navbar{
+width: auto;
+height: 104px;
+border-color: black;
+background-color: E7E7E7;
+}
+.newsgrid{
+/*padding: 100px 0px 100px 0px;*/
+width: 850px;
+margin: 0 auto;
+}
+.newsbody{
+padding: 104px 10px 0px 10px;
+}
+
+
+
+.
+/*** Elements ***/
+/*LogIn*/
+
+/*Employers*/
+.employers-introduction__heading{
+ font-family: "Avenir Next Regular";
+ font-size: 30.0px;
+ width: 580px;
+ height: 82px;
+ 
+}
+.employers-introduction__heading{
+ margin-left: 345px;
+ margin-right: 345px;
+}
+.employers-introduction__paragraph1{
+font-family: "Avenir Next Regular";
+width:750px;
+height: auto;
+margin-left: 345px;
+margin-right: 345px;
+}
+.employers-introduction__paragraph2{
+font-family: "Avenir Next Regular";
+width:750px;
+height: auto;
+margin-left: 345px;
+margin-right: 345px;
+}
+.employers-introduction__paragraph3{
+font-family: "Avenir Next Regular";
+width:750px;
+height: auto;
+margin-left: 345px;
+margin-right: 345px;
+}
+.employees-partners-container{
+width: auto;
+height:818px;
+background:#f4f4f4;
+}
+.employers-partners__heading{
+color: #B11486;
+font-family: "Avenir Next Regular";
+font-size: 30px;
+
+}
+.employers-partners__heading{
+margin-top: 99px;
+margin-left: 344px;
+margin-right: 747px;}
+
+.employers-partners__paragraph{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+margin-left: 345px;
+margin-right: 345px;
+margin-top:210px;
+}
+.employers-partners__view--hotpink{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+margin-left: 344px;
+margin-right: 75px;
+}
+.employers-partners__join--hotpink{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+margin-right: 100px;
+}
+.employersgrid{
+margin:223px 237px 0px 237px;
+}
+.employers-grid_rectangle1{
+border-radius:0px;
+width: 236px;
+height: 193px;
+margin:423px 237px 0px 0px;
+background:white;
+
+}
+.employers-grid_rectangle2{
+border-radius:0px;
+width: 236px;
+height: 193px;
+margin:423px 0px 0px 0px;
+
+}
+.employers-grid_rectangle3{
+border-radius:0px;
+width: 236px;
+height: 193px;
+padding:46px 34px 46px 34px;
+border-radius:NaNpx;
+}
+.employers-grid_rectangle4{
+border-radius:0px;
+width: 236px;
+height: 193px;
+padding:75px 43px 74px 42px;
+border-radius:NaNpx;
+}
+.employers-grid_rectangle5{
+margin:423px 0px 0px 0px;
+}
+.employers-grid_rectangle6{
+border-radius:0px;
+
+padding:81px 37px 79px 66px;
+border-radius:NaNpx;
+}
+.employers-grid_rectangle7{
+border-radius:0px;
+
+padding:71px 37px 70px 37px;
+border-radius:NaNpx;
+}
+.employers-grid_rectangle8{
+border-radius:0px;
+
+padding:56px 27px 56px 27px;
+border-radius:NaNpx;
+}
+
+/*News*/
+.news-introduction__header{
+font-family: "Avenir Next Regular";
+font-size: 40px;
+color: #464646;
+margin: 0 auto;
+}
+.news-introduction__image{
+
+}
+.news-introduction__paragraph1{
+font-family: "Avenir Next Regular";
+font-size: 23px;
+color: #464646;
+margin: 0 auto;
+}
+.news-section1__heading{
+font-family: "Avenir Next Regular";
+font-size: 20px;
+}
+.news-section1__paragraph{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+font-weight:400;
+line-height: 27px;
+color: #464646;
+
+}
+.news-section2__heading{
+font-family: "Avenir Next Regular";
+font-size: 20px;
+
+}
+.news-section2__paragraph{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+font-weight:400;
+line-height: 30px;
+color: #464646;
+
+}
+.news-section2__unlist_item1{
+width: 431.84px;
+height: 58px;
+font-family: "Avenir Next Regular";
+font-size: 18px;
+margin-left: 21px;
+margin-right:314px;
+margin-top: 33px;
+margin-bottom: 0px;	
+}
+.news-section2__unlist_item2{
+width: 431.84px;
+height: 58px;
+font-family: "Avenir Next Regular";
+font-size: 18px;
+margin-left: 21px;
+margin-right:314px;
+margin-top: 33px;
+margin-bottom: 0px;	
+}
+.news-section2__unlist_item3{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+width: 431.84px;
+height: 58px;
+margin-left: 21px;
+margin-right:314px;
+margin-top: 33px;
+margin-bottom: 0px;	
+}
+.news-section3__heading{
+font-family: "Avenir Next Regular";
+font-size: 20px;
+}
+.news-section3__paragraph{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+font-weight:400;
+line-height: 27px;
+color: #464646;
+
+}
+.news-section4__heading{
+font-family: "Avenir Next Regular";
+font-size: 20px;
+}
+.news-section4__paragraph{
+font-family: "Avenir Next Regular";
+font-size: 18px;
+font-weight:400;
+line-height: 27px;
+color: #464646;
+}
+
+/*** Modifiers ***/
+
+
+
+
+
